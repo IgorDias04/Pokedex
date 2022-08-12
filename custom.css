@@ -1,0 +1,89 @@
+body {
+  margin: 0 !important;
+}
+
+.pokedex {
+  background-color: lightpink;
+}
+
+.customImg {
+  height: 15rem;
+  width: 15rem;
+}
+.grass {
+  background-color: green;
+  color: white;
+}
+.poison {
+  background-color: purple;
+  color: white;
+}
+.fire {
+  background-color: red;
+  color: white;
+}
+.flying {
+  background-color: lightblue;
+  color: white;
+}
+.water {
+  background-color: aqua;
+  color: white;
+}
+
+.electric {
+  background-color: yellow;
+  color: white;
+}
+.rock {
+  background-color: brown;
+  color: white;
+}
+.bug {
+  background-color: greenyellow;
+  color: white;
+}
+.normal {
+  background-color: gray;
+  color: white;
+}
+.ground {
+  background-color: burlywood;
+  color: white;
+}
+.psychic {
+  background-color: darkorchid;
+  color: white;
+}
+.ice {
+  background-color: aquamarine;
+  color: white;
+}
+.fairy {
+  background-color: lightcoral;
+  color: white;
+}
+.fighting {
+  background-color: darkred;
+  color: white;
+}
+.steel {
+  background-color: darkgrey;
+  color: white;
+}
+.ghost {
+  background-color: lightyellow;
+  color: white;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.dragon {
+  background-color: darkkhaki;
+  color: white;
+}
+.undefined {
+  background-color: none;
+  color: white;
+}
